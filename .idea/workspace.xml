@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94962a73-4faa-498e-931a-5f24a238b7ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" afterPath="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SSNIEEE/settings.py" afterPath="$PROJECT_DIR$/SSNIEEE/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,17 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ieeestudent/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -84,6 +74,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SSNIEEE/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -166,7 +166,6 @@
         <option value="$PROJECT_DIR$/ieeestudent/template/ieeestudent/base.html" />
         <option value="$PROJECT_DIR$/ieeestudent/template/ieeestudent/index.html" />
         <option value="$PROJECT_DIR$/ieeestudent/models.py" />
-        <option value="$PROJECT_DIR$/SSNIEEE/settings.py" />
         <option value="$PROJECT_DIR$/ieeestudent/static/ieeestudent/layout/styles/framework.css" />
         <option value="$PROJECT_DIR$/ieeestudent/static/ieeestudent/layout/styles/layout.css" />
         <option value="$PROJECT_DIR$/ieeestudent/views.py" />
@@ -179,6 +178,7 @@
         <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/gallery.html" />
         <option value="$PROJECT_DIR$/SSNIEEE/urls.py" />
         <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" />
+        <option value="$PROJECT_DIR$/SSNIEEE/settings.py" />
       </list>
     </option>
   </component>
@@ -833,14 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SSNIEEE/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ieeestudent/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -931,6 +923,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSNIEEE/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
