@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94962a73-4faa-498e-931a-5f24a238b7ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SSNIEEE/urls.py" afterPath="$PROJECT_DIR$/SSNIEEE/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" afterPath="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="170">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -69,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SSNIEEE/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -177,8 +177,8 @@
         <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/events2015.html" />
         <option value="$PROJECT_DIR$/ieeestudent/urls.py" />
         <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/gallery.html" />
-        <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" />
         <option value="$PROJECT_DIR$/SSNIEEE/urls.py" />
+        <option value="$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html" />
       </list>
     </option>
   </component>
@@ -919,18 +919,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SSNIEEE/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ieeestudent/templates/ieeestudent/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
