@@ -1,0 +1,24 @@
+{% extends 'ieeestudent/base.html' %}
+{% load staticfiles %}
+
+{% block page_title %} Events - 2016 {% endblock %}
+
+{% block title %} ../../ {% endblock %}
+{% block home %} ../../ {% endblock %}
+{% block events %} ../2017/ {% endblock %}
+{% block events2015 %} ../2015/ {% endblock %}
+{% block events2016 %} ../2016/ {% endblock %}
+{% block events2017 %}  ../2017/ {% endblock %}
+{% block active_events %} class = "active" {% endblock %}
+{% block gallery %} ../../gallery/ {% endblock %}
+{% block footer_gallery %} ../../gallery/ {% endblock %}
+{% block about %} ../../about/ {% endblock %}
+{% block footer_home %} ../../ {% endblock %}
+{% block footer_home1 %} ../../ {% endblock %}
+{% block footer_events %} ../2017/ {% endblock %}
+{% block footer_about %} ../../about/ {% endblock %}
+
+{% block content %}
+<h3 class="heading" style="font-size: 25px; margin-left: auto; margin-right: auto; text-align: center; margin-top: 8%";>Events - 2016</h3>
+<img src="{% static 'ieeestudent/images/events/2016.jpg' %}" style="border: #DB4A39 2px solid ;width: 80%; height: auto; margin: 5% 10% 10% 10%">
+{% endblock %}
